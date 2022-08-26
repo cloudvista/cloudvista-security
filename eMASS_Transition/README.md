@@ -82,7 +82,9 @@ The 1-year ATO are typically for projects which need to address specific concern
 The 1-year conditional ATO will essentially shotgun through the normal approval process and save us roughly 3-4 months at the minimum. However, the VA can still disapprove our ATO, but given the work done in RV and the amount of counseling that we have had from our ISO, we see no reason why that will happen, because we will have everything needed for a conditional approval from the Authorizing Official (AO) in eMASS. Even with a denial, we will still be able to resubmit for the 1-year conditional ATO and make better time than the normal ATO process.
 
 
+
+
 </br> </br> </br> </br> 
 ## eMASS Authorization Workflows updated as of 09-25-2019
-![eMASS Workflows Page 1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS-Crosswalk-RMF-process_Page_1.jpg "eMASS Authorization Workflows Page 1") |
-![eMASS Workflows Page 2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS-Crosswalk-RMF-process_Page_2.jpg "eMASS Authorization Workflows Page 2") 
+![eMASS Workflows Page 1](https://github.com/CloudVistA/cloud-ATO/blob/main/eMASS_Transition/images/eMASS-Crosswalk-RMF-process_Page_1.jpg "eMASS Authorization Workflows Page 1") |
+![eMASS Workflows Page 2](https://github.com/CloudVistA/cloud-ATO/blob/main/eMASS_Transition/images/eMASS-Crosswalk-RMF-process_Page_2.jpg  "eMASS Authorization Workflows Page 2") 
