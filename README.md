@@ -1,11 +1,11 @@
 # Agile Project Management 
-Plans, progress, and deliverables of all Project Management tasks supporting the migration and cloud-native certification of VistA to the VA Enterprise Cloud. The primary project management objective is achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) certifications of VistA in the VA Enterprise Cloud  ("Cloud VistA").
+Plans, progress, and deliverables of all Project Management tasks supporting the migration and security certification of VistA to the VA Enterprise Cloud. Key project management milestones include achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) certifications of VistA in the VA Enterprise Cloud  ("Cloud VistA").
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
 </br>
 
-# :bar_chart: VAM2 Project Management Dashboard 
+# :bar_chart: Cloud VistA  Project Management Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
