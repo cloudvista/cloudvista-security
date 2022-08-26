@@ -1,5 +1,5 @@
 # Agile Project Management 
-Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS). The primary project management tasks of VAM are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).  
+Plans, progress, and deliverables of all Project Management tasks supporting the migration and cloud-native certification of VistA to the VA Enterprise Cloud. The primary project management objective is achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) certifications of VistA in the VA Enterprise Cloud  ("Cloud VistA").
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
