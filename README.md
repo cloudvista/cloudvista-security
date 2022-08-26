@@ -1,6 +1,6 @@
 # Cloud VistA Project Management 
  
- Plans, progress, and deliverables of all Agile roject Management tasks supporting the migration and security certification of VistA to the VA Enterprise Cloud. Key project management milestones include achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) certifications of VistA in the VA Enterprise Cloud  ("Cloud VistA"). 
+Agile Project Management plans, progress, and deliverables supporting the migration and security certification of VistA to the VA Enterprise Cloud. Key project management milestones include achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) certifications of VistA in the VA Enterprise Cloud  ("Cloud VistA"). 
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
