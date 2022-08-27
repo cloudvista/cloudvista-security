@@ -1,8 +1,6 @@
 # Agile Cloud ATO
  
-Collaborative cloud-based agile project management plans, issues, and deliverables supporting the migration and operation of VistA in the VA Enterprise Cloud ("Cloud VistA").
-
-Key deliverables included Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud. This  incoroprates all U.S. GovCloud (Fedramp HIGH), Federal (NIST, HIPAA, FISMA), VA (Riskvision) and DOD (eMASS) security, reliability, and performanc certifications.
+Collaborative cloud-based agile project management plans, issues, and deliverables supporting the migration and operation of VistA in the VA Enterprise Cloud ("Cloud VistA"). Key deliverables included Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud. This  incoroprates all U.S. GovCloud (Fedramp HIGH), Federal (NIST, HIPAA, FISMA), VA (Riskvision) and DOD (eMASS) security, reliability, and performanc certifications.
 
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
