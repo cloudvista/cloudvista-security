@@ -1,4 +1,4 @@
-# VA Enterprise Cloud ATO
+# VA Enterprise Cloud VistA ATO
  
 Collaborative cloud-based agile project management supporting the migration, certification, and full operation of VistA in the VA Enterprise Cloud ("Cloud VistA") leveraging the Amazon Web Service (AWS) Fedramp-HIGH certified U.S. GovCloud.  
 
