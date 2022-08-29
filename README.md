@@ -2,7 +2,7 @@
  
 Collaborative cloud-based agile project management supporting the migration, certification, and full operation of VistA in the VA Enterprise Cloud ("Cloud VistA").  
 
-Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud, and all associated U.S. GovCloud (Fedramp HIGH), Federal (NIST, HIPAA, FISMA), VA (Riskvision) and DOD (eMASS) security, reliability, and performanc certifications of Cloud VistA.
+Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud, which incorporates all U.S. GovCloud (Fedramp HIGH), Federal (NIST, HIPAA, FISMA), VA (Riskvision) and DOD (eMASS) security, reliability, and performanc certifications for Cloud VistA.
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
