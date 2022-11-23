@@ -2,7 +2,6 @@
  
 Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust security monitoring of all clients, all applications, all endpoints, and all transactions of Cloud VistA systems.  In addition to Zero Trust Security,  Cloud VistA is authorized to operate to all VA, DoD, and U.S. GovCloud standards: U.S. GovCloud (Fedramp HIGH); Federal (NIST, FISMA); HHS (HIPAA); FIPS 140.2 (TLS encryption); VA (Riskvision; 425 controls); DOD (eMASS; 1600+ controls) 
 
- <img src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png" width="600" />
  <img src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/cloudvista-zero-trust.PNG" width="600" />
 
 
