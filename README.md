@@ -2,7 +2,7 @@
  
 Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) to the highest security standards in the Fedramp-HIGH certified U.S. GovCloud. 
 
-Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud, and incorporates the highest security controls across the Federal sector. This includes meeting the most stringent security controls including:
+Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud. This includes meeting the most stringent security controls including:
 * U.S. GovCloud (Fedramp HIGH)
 * Federal (NIST, HIPAA, FISMA)
 * FIPS 140.2 (TLS encryption)
