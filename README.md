@@ -9,7 +9,7 @@ Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust
 * DOD (eMASS; 1600+ security controls) 
 
 
-![VAM ZeroTrustSecurity](https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png)
+![VAM ZeroTrustSecurity](https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png ? w=400)
 
 
 
