@@ -21,7 +21,7 @@ For guidance and instructions on use of Github for Project Management please rea
 https://github.com/features/project-management
 
 
-</br> </br> </br> </br> 
+</br> </br>
 
 
 ### :bar_chart: ATO Dashboard
@@ -87,7 +87,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | DONE |
 
 
-</br> </br> </br> </br> </br> </br> </br> </br> </br>
+</br> </br>
 
 ## Risk Vision to eMASS Migration (1)
 | Task | Description |
