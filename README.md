@@ -2,7 +2,8 @@
  
 Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) to the highest security standards in the Fedramp-HIGH certified U.S. GovCloud. This includes meeting the most stringent security controls including:
 * U.S. GovCloud (Fedramp HIGH)
-* Federal (NIST, HIPAA, FISMA)
+* Federal (NIST, FISMA)
+* HHS (HIPAA)
 * FIPS 140.2 (TLS encryption)
 * VA (Riskvision; 425 security controls)
 * DOD (eMASS; 1600+ security controls) 
