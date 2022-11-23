@@ -1,4 +1,4 @@
-# VA Enterprise Cloud VistA - Zero Trust Security
+## VA Enterprise Cloud VistA - Zero Trust Security
  
 Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust security monitoring of all clients, all applications, all endpoints, and all transactions of Cloud VistA systems.  In addition to Zero Trust Security,  Cloud VistA is authorized to operate to all VA, DoD, and U.S. GovCloud standards:
 * U.S. GovCloud (Fedramp HIGH)
@@ -16,7 +16,7 @@ For guidance and instructions on use of Github for Project Management please rea
 
 </br>
 
-# :bar_chart: Cloud VistA  Project Management Dashboard 
+## :bar_chart: Cloud VistA  Project Management Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
@@ -30,7 +30,7 @@ Status:   :red_circle: [Priority issues](https://github.com/vistadataproject/VAM
 </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
 
 
-# :bar_chart: ATO Dashboard
+## :bar_chart: ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
 
 * [VA OIS ATO SOP](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#va-ois-ato-sop---2019): VA Office of Information Security process for ATO - v3.31 (02-04-2019)
@@ -39,7 +39,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 
 </br> </br>
 
-## ATO Registration Dashboard (3)
+### ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Assigned | Completed (Date)|
 |:---:|:----:|:---:|:---|:---:|
 | [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer |  PM | 04-09-2019 |
@@ -47,7 +47,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | PM | 02/01/2019 (Inherited) |
 
 </br> </br>
-## ATO Documentation Dashboard (11)
+### ATO Documentation Dashboard (11)
 
 |SOP (Link)  | Document / Task (Link) | Pages | #Queries / Tasks | #Completed | #Validated | Signatures | Status |
 |:---:|:----|:---:|:---|:---:|:---:|:---:|:---|
@@ -80,7 +80,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 
 </br> </br>
 
-## ATO Other Documents and Tasks (8)
+### ATO Other Documents and Tasks (8)
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 | SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | DONE |
@@ -104,7 +104,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 </br> </br> </br> </br> </br> </br> </br> </br> </br>
 
 
-# :bar_chart: IOC Dashboard
+## :bar_chart: IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 * [VA IOC Process](https://github.com/vistadataproject/VAM2ProjectManagement/blob/8a05521eaf4f874b2b79cc539dc9fe09e8e1340d/Documents/IOC/IOC_Process.md): VA IOC Process
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
@@ -133,7 +133,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 </br> </br> </br> </br> </br> </br> </br> </br> </br>
 
 
-# :bar_chart: PWS Dashboard
+## :bar_chart: PWS Dashboard
 Documents, milestones, and deliverables schedule for Product Work Statement (PWS)
 
 * [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
@@ -194,7 +194,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 
 
 </br> </br>
-# :bar_chart: Weekly Progress Reports
+## :bar_chart: Weekly Progress Reports
 |Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
 |:---:|:---:|:---:|:---|:---:|:---:|:---:|
 | 01 | [VAM2-Week-01](/Documents/weekly_meeting_minutes/VAM2-Week01-02-19-2019.md) | Project Kickoff Meeting | 02-19-2019 | 02-20-2019 | 02-20-2019 | :white_check_mark: |
