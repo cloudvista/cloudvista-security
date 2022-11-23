@@ -1,6 +1,6 @@
 # VA Enterprise Cloud VistA - Certification
  
-Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) to the highest security standards in the federally certified U.S. GovCloud. This includes meeting the most stringent security controls including:
+Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) to the highest security standards in the VA, DOD, and federally certified U.S. GovCloud. This includes meeting the most stringent security controls including:
 * U.S. GovCloud (Fedramp HIGH)
 * Federal (NIST, FISMA)
 * HHS (HIPAA)
