@@ -1,6 +1,6 @@
 # VA Enterprise Cloud VistA - Certification
  
-Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) leveraging the Amazon Web Service (AWS) Fedramp-HIGH certified U.S. GovCloud.   
+Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) leveraging the Amazon Web Service (AWS) Fedramp-HIGH certified U.S. GovCloud. 
 
 Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud, and incorporates the highest security controls across the Federal sector. This includes meeting the most stringent security controls including:
 * U.S. GovCloud (Fedramp HIGH)
