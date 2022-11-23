@@ -7,7 +7,7 @@ Cloud VistA Zero Trust Security provides a comprehensive security for all client
 
 </br>
 
-## :bar_chart: Cloud VistA - Zero Trust Security - Authority to Operate Certification Dashboard 
+### :bar_chart: Cloud VistA - Zero Trust Security - Authority to Operate Certification Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
@@ -21,10 +21,10 @@ For guidance and instructions on use of Github for Project Management please rea
 https://github.com/features/project-management
 
 
-</br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
+</br> </br> </br> </br> </br> </br> </br> </br> 
 
 
-## :bar_chart: ATO Dashboard
+### :bar_chart: ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
 
 * [VA OIS ATO SOP](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#va-ois-ato-sop---2019): VA Office of Information Security process for ATO - v3.31 (02-04-2019)
