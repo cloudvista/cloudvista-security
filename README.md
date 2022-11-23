@@ -11,7 +11,7 @@ Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust
 
 ![VAM ZeroTrustSecurity](https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png)
 
-<img src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png" width="200" />
+<img src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png" width="800" />
 
 
 
