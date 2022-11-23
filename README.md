@@ -11,12 +11,9 @@ Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust
  <img src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png" width="600" />
 
 
-
-For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
-
 </br>
 
-## :bar_chart: Cloud VistA  Project Management Dashboard 
+## :bar_chart: Cloud VistA - Zero Trust Security - Authority to Operate Certification Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
@@ -25,6 +22,9 @@ For guidance and instructions on use of Github for Project Management please rea
 [Weekly Reports](#bar_chart-weekly-progress-reports)  | NA | NA | 50 | 50 | 100% | :white_check_mark: | 
 
 Status:   :red_circle: [Priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed) (High Risk) :large_orange_diamond: Medium Risk  :white_check_mark: Completed
+
+For guidance and instructions on use of Github for Project Management please read:  
+https://github.com/features/project-management
 
 
 </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
