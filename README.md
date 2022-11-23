@@ -9,6 +9,9 @@ Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust
 * DOD (eMASS; 1600+ security controls) 
 
 
+[VAM ZeroTrustSecurity](https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/Vista-ZeroTrustSecurity.png)
+
+
 
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
