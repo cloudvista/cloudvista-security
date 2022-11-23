@@ -21,7 +21,7 @@ For guidance and instructions on use of Github for Project Management please rea
 https://github.com/features/project-management
 
 
-</br> </br> </br> </br> </br> </br> </br> </br> 
+</br> </br> </br> </br> 
 
 
 ### :bar_chart: ATO Dashboard
@@ -95,7 +95,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 |[Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition) | This is the link to the details of RiskVision to eMASS migration for VAM's ATO submission and approval effort |  
 
 
-</br> </br> </br> </br> </br> </br> </br> </br> </br>
+</br> </br>
 
 
 ## :bar_chart: IOC Dashboard
@@ -124,7 +124,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 | 04.e | Get CD2 approval for National Release | 01-29-2020 | PM |
 
 
-</br> </br> </br> </br> </br> </br> </br> </br> </br>
+</br> </br>
 
 
 ## :bar_chart: PWS Dashboard
