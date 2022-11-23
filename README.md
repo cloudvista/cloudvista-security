@@ -2,7 +2,13 @@
  
 Collaborative cloud-based agile project management supporting the migration, certification, and full operation of VistA in the VA Enterprise Cloud ("Cloud VistA") leveraging the Amazon Web Service (AWS) Fedramp-HIGH certified U.S. GovCloud.  
 
-Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud, and incorporates all U.S. GovCloud (Fedramp HIGH), Federal (NIST, HIPAA, FISMA), VA (Riskvision) and DOD (eMASS) security, reliability, and performanc certifications for Cloud VistA.
+Key milestones and deliverables included the Authority to Operate (ATO) and Initial Operating Capability (IOC) of VistA in the VA Enterprise Cloud, and incorporates the highest security controls across the Federal sector. This includes meeting the most stringent security controls
+security, reliability, and performanc certifications including:
+* U.S. GovCloud (Fedramp HIGH)
+* Federal (NIST, HIPAA, FISMA)
+* FIPS 140.2 (TLS encryption)
+* VA (Riskvision; 425 security controls)
+* DOD (eMASS; 1600+ security controls) 
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
