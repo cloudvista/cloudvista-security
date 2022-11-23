@@ -1,13 +1,15 @@
-# VA Enterprise Cloud VistA - Zero Trust Security - Authority to Operate Certification
+# VA Enterprise Cloud VistA - Zero Trust Security - Authority to Operate
  
-Authority to Operate (ATO) Certification of VistA in the VA Enterprise Cloud (VAEC) to provide Zero Trust security monitoring of all clients, all applications, all endpoints, and all transactions of Cloud VistA systems. In addition, Cloud VistA meets the highest security standards in the VA, DOD, and federally certified U.S. GovCloud including:
-
+Authority to Operate (ATO) Certification of VA Enterprise Cloud VistA Zero Trust security monitoring of all clients, all applications, all endpoints, and all transactions of Cloud VistA systems.  In addition to Zero Trust certification,  Cloud VistA meets the highest security standards in the VA, DOD, and federally certified U.S. GovCloud including:
 * U.S. GovCloud (Fedramp HIGH)
 * Federal (NIST, FISMA)
 * HHS (HIPAA)
 * FIPS 140.2 (TLS encryption)
 * VA (Riskvision; 425 security controls)
 * DOD (eMASS; 1600+ security controls) 
+
+
+
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
