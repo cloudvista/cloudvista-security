@@ -7,7 +7,7 @@ Cloud VistA Zero Trust Security provides a comprehensive security for all client
 
 </br>
 
-### :bar_chart: Cloud VistA - Zero Trust Security - Authority to Operate Certification Dashboard 
+### :bar_chart: Cloud VistA - Zero Trust Security - ATO Certification Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
