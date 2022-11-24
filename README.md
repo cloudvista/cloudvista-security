@@ -1,6 +1,6 @@
 ## VA Enterprise Cloud VistA - Zero Trust Security
  
-Cloud VistA Zero Trust Security provides a comprehensive security for all clients, all applications, all endpoints, and all transactions of all Cloud VistA systems. In addition, Cloud VistA is certified and authorized to operate to all current VA and DoD security standards, including U.S. GovCloud (Fedramp HIGH); Federal (NIST, FISMA); HHS (HIPAA); FIPS 140.2 (TLS encryption); VA (Riskvision; 425 controls); DOD (eMASS; 1600+ controls) 
+Zero Trust Security provides comprehensive security for all clients, all applications, all endpoints, and all transactions of all Cloud VistA systems. In addition, Cloud VistA is certified and authorized to operate to all current VA and DoD security standards, including U.S. GovCloud (Fedramp HIGH); Federal (NIST, FISMA); HHS (HIPAA); FIPS 140.2 (TLS encryption); VA (Riskvision; 425 controls); DOD (eMASS; 1600+ controls) 
 
  <img src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/cloudvista-zero-trust.PNG" width="600" />
 
