@@ -5,9 +5,7 @@ Cloud VistA is certified and authorized to operate to all VA and DoD security st
 In addtion, Cloud VistA has been upgraded far beyond the current feddral standards to the next-generation Zero Trust Security. This provides comprehensive real-time machine learning data-driven security analytics for all clients, all applications, all endpoints, and all transactions of all Cloud VistA systems. 
 
 
-<p align="center">
- <img  width="600"  src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/cloudvista-zero-trust.PNG" >
-</p>
+ <img  width="800"  src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/cloudvista-zero-trust.PNG" >
 
 
 </br>
