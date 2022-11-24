@@ -2,7 +2,7 @@
  
 Cloud VistA is certified and authorized to operate to all VA, DoD, and Federal security standards, including U.S. GovCloud (Fedramp HIGH); Federal (NIST, FISMA); HHS (HIPAA); FIPS 140.2 (TLS encryption); VA (Riskvision; 425 controls); DOD (eMASS; 1600+ controls). This enables VistA data to be securely interoperable across federal agencies. 
 
-In addtion, Cloud VistA has been upgraded far beyond the current feddral standards to the next-generation Zero Trust Security. This provides comprehensive real-time machine learning data-driven security for all clients, all users, all applications, all endpoints, and all transactions of all Cloud VistA systems. 
+In addtion, Cloud VistA has been upgraded far beyond the current feddral standards to the next-generation Zero Trust Security. This provides comprehensive attriute-based data-driven security for all clients, all users, all applications, all endpoints, and all transactions of all Cloud VistA systems. 
 
 
  <img  width="800"  src="https://github.com/cloudvista/cloudvista-ATO/blob/main/Documents/images/cloudvista-zero-trust.PNG" >
