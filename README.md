@@ -1,4 +1,4 @@
-## VA Enterprise Cloud VistA - Zero Trust Security
+## Zero Trust Security Monitoring
  
 VA Enterprise Cloud VistA  ("Cloud VistA") is certified with authority to operate (ATO) to all VA, DoD, and Federal security standards, including U.S. GovCloud (Fedramp HIGH); Federal (NIST, FISMA); HHS (HIPAA); FIPS 140.2 (TLS encryption); VA (Riskvision; 425 controls); and DOD (eMASS; 1600+ controls). This enables VistA data to be securely interoperable across federal agencies. 
 
